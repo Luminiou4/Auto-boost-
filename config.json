@@ -1,0 +1,12 @@
+{
+  "tokens_file": "tokens.txt",
+  "proxy_file": "",
+  "log_dir": "logs",
+  "max_concurrent": 10,
+  "min_boost_delay": "1.5s",
+  "max_boost_delay": "3.5s",
+  "check_delay": "800ms",
+  "max_retries": 3,
+  "base_url": "https://discord.com/api/v10",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}

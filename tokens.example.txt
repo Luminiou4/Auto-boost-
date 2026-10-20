@@ -1,0 +1,7 @@
+# Luminious AutoBoost — tokens.txt
+# One Discord token per line
+# Lines starting with # are ignored
+# Example:
+
+# MzAxxxxxxxxxxxxxxxxxxxxxx.Gxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# OTxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.Gxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx
